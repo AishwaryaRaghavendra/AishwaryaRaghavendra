@@ -23,7 +23,8 @@
     <code><img align = "center" src ="https://user-images.githubusercontent.com/45971902/176159702-a6e1ed1d-691c-4bd4-b166-83fb5fa823b8.png" width="70" height="25"/></code>
     <code><img align = "center" src ="https://user-images.githubusercontent.com/45971902/176160003-ff5d0fc4-0f53-48d2-859e-bcdaeebe0208.png" width="40" height="40"/></code>
     <code><img align = "center" src ="https://user-images.githubusercontent.com/45971902/176162505-bb6e90b3-0c44-477a-96ad-8e325bb27f57.png" width="40" height="40"/></code>
-
+    <code><img align = "center" src ="https://user-images.githubusercontent.com/45971902/176164461-90bdae50-08ce-4992-9735-d22a9c6482b1.png" width="40" height="40"/></code>
+    <code><img align = "center" src ="https://user-images.githubusercontent.com/45971902/176164596-dd653e20-6f08-481f-a524-47a469103459.png" width="30" height="30"/></code>    
 - 📫 Reach me on : <a href = "https://www.linkedin.com/in/aishwarya-raghavendra/"> <img align = "center" src= "https://user-images.githubusercontent.com/45971902/176130919-6cfaccba-3593-4345-9751-88fe679bbf10.png" width="25" height="25"/>
 
 

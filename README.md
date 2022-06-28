@@ -11,7 +11,7 @@
 - 🌱 I’m currently learning Data Analytics, Machine Learning and Deep learning concepts, Cloud-native frameworks, Automation with CI-CD DevOps Toolchain
 - 👯 I’m looking to collaborate on Machine Learning projects
 - 🙋‍♀ Pronouns: She/Her
-- 📫 Yo can reach me on : <img src= "https://user-images.githubusercontent.com/45971902/176130919-6cfaccba-3593-4345-9751-88fe679bbf10.png" width="5" height="5"/>
+- 📫 Yo can reach me on : <img src= "https://user-images.githubusercontent.com/45971902/176130919-6cfaccba-3593-4345-9751-88fe679bbf10.png" width="20" height="20"/>
  https://www.linkedin.com/in/aishwarya-raghavendra/
 
 <!-- - 🤔 I’m looking for help with ... -->

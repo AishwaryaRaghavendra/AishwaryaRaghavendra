@@ -25,6 +25,7 @@
     <code><img align = "center" src ="https://user-images.githubusercontent.com/45971902/176162505-bb6e90b3-0c44-477a-96ad-8e325bb27f57.png" width="40" height="40"/></code>
     <code><img align = "center" src ="https://user-images.githubusercontent.com/45971902/176164461-90bdae50-08ce-4992-9735-d22a9c6482b1.png" width="40" height="40"/></code>
     <code><img align = "center" src ="https://user-images.githubusercontent.com/45971902/176164596-dd653e20-6f08-481f-a524-47a469103459.png" width="30" height="30"/></code>    
+    <code><img align = "center" src ="https://user-images.githubusercontent.com/45971902/176165017-d6af228c-e4ec-4499-bb91-7164d124edc8.png" width="30" height="30"/></code>     
 - 📫 Reach me on : <a href = "https://www.linkedin.com/in/aishwarya-raghavendra/"> <img align = "center" src= "https://user-images.githubusercontent.com/45971902/176130919-6cfaccba-3593-4345-9751-88fe679bbf10.png" width="25" height="25"/>
 
 

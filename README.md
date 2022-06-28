@@ -1,5 +1,4 @@
 ### Hello! I'm Aishwarya Raghavendra 👋
--🙋‍♀️ Pronouns: She/Her
 
 ✨ My Portfolio ✨ 
 
@@ -11,9 +10,9 @@
 - 🔭 I’m currently working on Natural Language Processing applications using NLTK, SpaCy and Python.
 - 🌱 I’m currently learning Data Analytics, Machine Learning and Deep learning concepts, Cloud-native frameworks, Automation with CI-CD DevOps Toolchain
 - 👯 I’m looking to collaborate on Machine Learning projects
-<!-- - 🤔 I’m looking for help with ... -->
-<!-- - 💬 Ask me about ... -->
-- 📫 Yo can reach me on : ![image](https://user-images.githubusercontent.com/45971902/176130919-6cfaccba-3593-4345-9751-88fe679bbf10.png)
+- 🙋‍♀ Pronouns: She/Her
+- 📫 Yo can reach me on : ![image](https://user-images.githubusercontent.com/45971902/176130919-6cfaccba-3593-4345-9751-88fe679bbf10.png width="5" height="5")
  https://www.linkedin.com/in/aishwarya-raghavendra/
 
-
+<!-- - 🤔 I’m looking for help with ... -->
+<!-- - 💬 Ask me about ... -->

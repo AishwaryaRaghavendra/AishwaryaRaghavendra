@@ -2,7 +2,8 @@
 
 ✨ My Portfolio ✨ 
 
--⚡ Brief About me: 
+- 🙋‍♀ Pronouns: She/Her
+- ⚡ Brief About me: 
   > I don't like to stick within a box. 
   > Inquisitive to explore and learn topics beyond the scope of my educational curriculum. 
   > I'm an Electronics & Communication Engineering graduate who later went onto gain professional experience as a Software Automation Engineer in a corporate IT firm.
@@ -10,8 +11,7 @@
 - 🔭 I’m currently working on Natural Language Processing applications using NLTK, SpaCy and Python.
 - 🌱 I’m currently learning Data Analytics, Machine Learning and Deep learning concepts, Cloud-native frameworks, Automation with CI-CD DevOps Toolchain
 - 👯 I’m looking to collaborate on Machine Learning projects
-- 🙋‍♀ Pronouns: She/Her
-- 📫 Yo can reach me on : <a href = "https://www.linkedin.com/in/aishwarya-raghavendra/"> <img src= "https://user-images.githubusercontent.com/45971902/176130919-6cfaccba-3593-4345-9751-88fe679bbf10.png" width="20" height="20"/>
+- 📫 Reach me on : <a href = "https://www.linkedin.com/in/aishwarya-raghavendra/"> <img src= "https://user-images.githubusercontent.com/45971902/176130919-6cfaccba-3593-4345-9751-88fe679bbf10.png" width="20" height="20"/>
 
 
 

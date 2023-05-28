@@ -7,8 +7,8 @@
   > I don't like to stick within a box. 
   > Inquisitive to explore and learn topics beyond the scope of my educational curriculum. 
   > I'm an Electronics & Communication Engineering graduate who later went onto gain professional experience as a Software Automation Engineer in a corporate IT firm.
-  > Futher, my career explorations drawn me to currently pursue M.Sc.in Electrical Eng. & IT where I am now seeking to explore and widen my knowledge in Data Science,     Cloud Computing and DevOps Toolchain.
-- 🔭 I’m currently seeking student employment to work on Machine Learning topics.
+  > Futher, my career explorations drawn me to currently pursue M.Sc.in Electrical Eng. & IT where I am now seeking to explore and widen my knowledge in Data Science, Cloud Computing and DevOps Toolchain.
+- 🔭 I’m currently seeking full-time employment in the areas such as DevOps, Cloud, Data Analytics and Data Science.
 - 🌱 I’m currently learning Data Analytics, Machine Learning and Deep learning concepts, Cloud-native frameworks, Automation with CI-CD DevOps Toolchain
 - 👯 I’m looking to collaborate on Machine Learning projects
 - Languages and Tools: <br/>

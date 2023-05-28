@@ -10,7 +10,7 @@
   > Futher, my career explorations drawn me to currently pursue M.Sc.in Electrical Eng. & IT where I am now seeking to explore and widen my knowledge in Data Science, Cloud Computing and DevOps Toolchain.
 - 🔭 I’m currently seeking full-time employment in the areas such as DevOps, Cloud, Data Analytics and Data Science.
 - 🌱 I’m currently learning Data Analytics, Machine Learning and Deep learning concepts, Cloud-native frameworks, Automation with CI-CD DevOps Toolchain
-- 👯 I’m looking to collaborate on Machine Learning projects
+
 - Languages and Tools: <br/>
 
     <code><img align = "center" src = "https://user-images.githubusercontent.com/45971902/176151844-2d863bd2-ff5c-40c6-a0b4-e14f13b2c834.png" width="35" height="35"/></code>
